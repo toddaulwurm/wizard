@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\bin\Debug\netcoreapp3.1\wizard.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\OOP\wizard\obj\Debug\netcoreapp3.1\wizard.genruntimeconfig.cache
